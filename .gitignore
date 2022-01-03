@@ -1,0 +1,6 @@
+*.pkl
+*.csv
+*.zip
+*.py~
+*.pyc
+*.html

@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+shapely
+geopandas
+geopy
+plotly
+tqdm
